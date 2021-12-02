@@ -9,6 +9,7 @@ void addnuumber(int a, int b)
 
 int main()
 {
-	addnuumber(7,8);	
+	addnuumber(7,8);
+	addnumber(15,-7).;
 	
 }
